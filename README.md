@@ -1,3 +1,8 @@
+Manually inserted Status mardown as a test:
+
+[![Build Status](https://sehanprojects.visualstudio.com/MyFirstDevOpsProject-Python-django/_apis/build/status/MyFirstDevOpsProject-Python-django-CI)](https://sehanprojects.visualstudio.com/MyFirstDevOpsProject-Python-django/_build/latest?definitionId=1)
+
+
 # Sample Python app for Azure Pipelines docs
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
